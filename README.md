@@ -1,10 +1,10 @@
-## 👋 About Me:
+# 👋 About Me:
 
-🎓 Machine Learning & Data Science student at MIPT
-📊 Interested in applied machine learning, data analysis and optimization
-💬 Ask me about machine learning, data science and algorithms
-📫 How to reach me: [Telegram](https://t.me/terentr) | [Email](terenkovkirill@yandex.ru)
-📄 [My Resume/CV](https://github.com/terenkovkirill/Kirill-Terenkov/blob/main/KirillTerenkov.pdf) 
+🎓 Machine Learning & Data Science student at MIPT<br>
+📊 Interested in applied machine learning, data analysis and optimization<br>
+💬 Ask me about machine learning, data science and algorithms<br>
+📫 How to reach me: [Telegram](https://t.me/terentr) | [Email](mailto:terenkovkirill@yandex.ru)<br>
+📄 [My Resume/CV](https://github.com/terMorel/Kirill-Terenkov/blob/main/KirillTerenkov.pdf)
 
 
 ## 🚀 Featured Projects
@@ -32,11 +32,10 @@
 ## 📊 GitHub Stats:
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=terenkovkirill&hide_border=true&theme=github-dark-blue" alt="GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=terMorel&hide_border=true&theme=github-dark-blue" alt="GitHub streak" height="165" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terenkovkirill&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terMorel&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165" />
 </p>
 
-<!-- Add a public Resume/CV link here later if you upload it to GitHub, Google Drive, or another public host. -->
