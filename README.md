@@ -3,7 +3,7 @@
 🎓 Machine Learning & Data Science student at MIPT<br>
 📊 Interested in applied machine learning, data analysis and optimization<br>
 💬 Ask me about machine learning, data science and algorithms<br>
-📫 How to reach me: [Telegram](https://t.me/terentr) | [Email](mailto:terenkovkirill@yandex.ru)<br>
+📫 How to reach me: [Telegram](https://t.me/termorel) | [Email](mailto:terenkovkirill@yandex.ru)<br>
 📄 [My Resume/CV](https://github.com/terMorel/Kirill-Terenkov/blob/main/KirillTerenkov.pdf)
 
 
